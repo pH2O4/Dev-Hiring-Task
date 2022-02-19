@@ -1,0 +1,24 @@
+:root{
+  --aside-width: 250px
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App{
+  display: grid;
+  grid-template-columns: var(--aside-width) 1fr;
+  grid-template-rows:
+      1fr;
+  grid-template-areas:
+      "aside content";
+  height: 100vh;
+  background-color: #F5F5F5;
+}
+
+.aside{
+  grid-area: aside;
+  background-color: rgb(124, 173, 150);
+}

@@ -1,0 +1,10 @@
+.aside{
+  display: grid;
+  grid-template-rows: 100px;
+}
+
+button{
+  cursor: pointer;
+  background-color: rgb(124, 173, 150);
+  border: none;
+}
