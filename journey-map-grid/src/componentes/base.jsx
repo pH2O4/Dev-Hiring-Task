@@ -7,21 +7,44 @@ import { faBorderStyle } from "@fortawesome/free-solid-svg-icons";
 class Base extends Component {
   render() {
     return <div className="aside">
-      <div >
 
+      <div className="collunsleft">
+      <div className="primeiradiv">
+          
+        </div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /> <span>Storyling</span> </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /> <span>Task</span> </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Mood board</span>  </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Touchpoints</span> </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Devices</span>  </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Expectations</span> </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span> Emotions</span></button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Pains </span> </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Key Messages</span> </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span> Sources of Information</span></button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Keywords</span>  </button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span> Landing Pages</span></button> 
+      <div className="Conteudoescondido"></div>
+      <button><FontAwesomeIcon icon={faBorderStyle} /><span> KPIs</span></button> 
+      <div className="Conteudoescondido"></div>
       </div>
-      <button><FontAwesomeIcon icon={faBorderStyle} /> <span>Task</span> </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Mood board</span>  </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Touchpoints</span> </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Devices</span>  </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Expectations</span> </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span> Emotions</span></button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Pains </span> </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Key Messages</span> </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span> Sources of Information</span></button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span>Keywords</span>  </button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span> Landing Pages</span></button>
-      <button><FontAwesomeIcon icon={faBorderStyle} /><span> KPIs</span></button>
+
+   { function EscondendoConteudo() {
+     
+   } 
+      
+    }
     </div>
 
 

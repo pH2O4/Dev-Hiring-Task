@@ -9,9 +9,9 @@
 
 .App{
   display: grid;
+  overflow: scroll;
   grid-template-columns: var(--aside-width) 1fr;
-  grid-template-rows:
-      1fr;
+  grid-template-rows: auto;
   grid-template-areas:
       "aside content";
   height: 100vh;

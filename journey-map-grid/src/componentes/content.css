@@ -1,17 +1,18 @@
-span{
 
-  background-color: rgb(97, 196, 186);
 
-}
-.ajustennav{
-
-  margin-top: 10px
-
-}
 
 .BotãoConteudo{
     padding: 7px;  
     border-radius: 2px 2px 15px;
-    margin: 25px;
+    margin: 30px;
+    
 
 }
+.ajustennav{
+  display: grid;
+  grid-template-columns: 100vh;
+  justify-content: center;
+  margin-top: 75px;
+  
+}
+
