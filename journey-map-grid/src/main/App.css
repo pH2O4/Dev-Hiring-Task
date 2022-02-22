@@ -22,3 +22,6 @@
   grid-area: aside;
   background-color: rgb(124, 173, 150);
 }
+.content{
+  grid-area: content;
+}
