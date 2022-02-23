@@ -1,59 +1,123 @@
 .Colunas{
   display: grid;
+  display: none;
   grid-template-columns: 135px 135px 135px 135px 135px 135px 135px 135px ;
-  grid-template-rows: 70px 1fr;
+  grid-template-rows: 30px 1fr;
   grid-template-areas: 
   "a b c d e f g h"
   "i j k l m n o p";
 }
 
-.AjusteColunas1{
+#AjusteColunas1{
   grid-area: a;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas2{
+#AjusteColunas2{
   grid-area: b;
+  background-color:gold;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas3{
+#AjusteColunas3{
   grid-area: c;
+  background-color: orange;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas4{
+#AjusteColunas4{
   grid-area: d;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas5{
+#AjusteColunas5{
   grid-area: e;
+  background-color:gold;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas6{
+#AjusteColunas6{
   grid-area: f;
+  background-color: orange;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas7{
+#AjusteColunas7{
   grid-area: g;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: large;
 }
-.AjusteColunas8{
+#AjusteColunas8{
   grid-area: h;
+  background-color: gold;
+  border-radius: 10px;
+  font-size: large;
 }
 
-.Ajuste-conteudo-Coluna1{
+#Ajuste-conteudo-Coluna1{
   grid-area: i;
-  overflow-wrap:break-word
+  overflow-wrap:break-word;
+  font-size: 10px;
+  
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna2{
+#Ajuste-conteudo-Coluna2{
   grid-area: j;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna3{
+#Ajuste-conteudo-Coluna3{
   grid-area: k;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna4{
+#Ajuste-conteudo-Coluna4{
   grid-area: l;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna5{
+#Ajuste-conteudo-Coluna5{
   grid-area: m;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna6{
+#Ajuste-conteudo-Coluna6{
   grid-area: n;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna7{
+#Ajuste-conteudo-Coluna7{
   grid-area: o;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
 }
-.Ajuste-conteudo-Coluna8{
+#Ajuste-conteudo-Coluna8{
   grid-area: p;
+  overflow-wrap:break-word;
+    font-size: 10px;
+    margin-top: 10px;
+    background-color: rgb(138, 228, 228);
 }
