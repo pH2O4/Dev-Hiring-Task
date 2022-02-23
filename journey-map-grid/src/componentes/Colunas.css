@@ -1,0 +1,59 @@
+.Colunas{
+  display: grid;
+  grid-template-columns: 135px 135px 135px 135px 135px 135px 135px 135px ;
+  grid-template-rows: 70px 1fr;
+  grid-template-areas: 
+  "a b c d e f g h"
+  "i j k l m n o p";
+}
+
+.AjusteColunas1{
+  grid-area: a;
+}
+.AjusteColunas2{
+  grid-area: b;
+}
+.AjusteColunas3{
+  grid-area: c;
+}
+.AjusteColunas4{
+  grid-area: d;
+}
+.AjusteColunas5{
+  grid-area: e;
+}
+.AjusteColunas6{
+  grid-area: f;
+}
+.AjusteColunas7{
+  grid-area: g;
+}
+.AjusteColunas8{
+  grid-area: h;
+}
+
+.Ajuste-conteudo-Coluna1{
+  grid-area: i;
+  overflow-wrap:break-word
+}
+.Ajuste-conteudo-Coluna2{
+  grid-area: j;
+}
+.Ajuste-conteudo-Coluna3{
+  grid-area: k;
+}
+.Ajuste-conteudo-Coluna4{
+  grid-area: l;
+}
+.Ajuste-conteudo-Coluna5{
+  grid-area: m;
+}
+.Ajuste-conteudo-Coluna6{
+  grid-area: n;
+}
+.Ajuste-conteudo-Coluna7{
+  grid-area: o;
+}
+.Ajuste-conteudo-Coluna8{
+  grid-area: p;
+}

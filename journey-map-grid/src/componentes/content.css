@@ -10,9 +10,12 @@
 }
 .ajustennav{
   display: grid;
-  grid-template-columns: 100vh;
+  grid-template-columns: 1fr;
   justify-content: center;
   margin-top: 75px;
   
 }
-
+.ConteudoEscondidoY{
+  display: flex;
+  justify-content: center;
+}
