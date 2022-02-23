@@ -9,13 +9,12 @@ import $ from 'jquery';
 class Base extends Component {
 
 
-  teste(){
-    console.log("funcionou")
-  }
+ 
 
    
 
   render() { const teste = teste => this.teste
+    
     return <div className="aside">
 
       <div className="collunsleft">
