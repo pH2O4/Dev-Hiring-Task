@@ -1,4 +1,4 @@
-.Colunas7{
+.Colunas8{
   display: grid;
   display: none;
   grid-template-columns: 135px 135px 135px 135px 135px 135px 135px 135px ;
@@ -8,116 +8,132 @@
   "i j k l m n o p";
 }
 
-#AjusteColunas17{
+#AjusteColunas178{
   grid-area: a;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas27{
+#AjusteColunas278{
   grid-area: b;
   background-color:gold;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas37{
+#AjusteColunas378{
   grid-area: c;
   background-color: orange;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas47{
+#AjusteColunas478{
   grid-area: d;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas57{
+#AjusteColunas578{
   grid-area: e;
   background-color:gold;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas67{
+#AjusteColunas678{
   grid-area: f;
   background-color: orange;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas77{
+#AjusteColunas778{
   grid-area: g;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
-#AjusteColunas87{
+#AjusteColunas878{
   grid-area: h;
   background-color: gold;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 
-#Ajuste-conteudo-Coluna17{
+#Ajuste-conteudo-Coluna178{
   grid-area: i;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
   
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna27{
+#Ajuste-conteudo-Coluna278{
   grid-area: j;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna37{
+#Ajuste-conteudo-Coluna378{
   grid-area: k;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna47{
+#Ajuste-conteudo-Coluna478{
   grid-area: l;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna57{
+#Ajuste-conteudo-Coluna578{
   grid-area: m;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna67{
+#Ajuste-conteudo-Coluna678{
   grid-area: n;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna77{
+#Ajuste-conteudo-Coluna778{
   grid-area: o;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna87{
+#Ajuste-conteudo-Coluna878{
   grid-area: p;
   overflow-wrap:break-word;
     font-size: 10px;
+      margin: 0px 4px;
     margin-top: 10px;
     background-color: rgb(138, 228, 228);
 }

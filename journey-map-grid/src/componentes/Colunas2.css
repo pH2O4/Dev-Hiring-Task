@@ -13,54 +13,63 @@
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas22{
   grid-area: b;
   background-color:gold;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas32{
   grid-area: c;
   background-color: orange;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas42{
   grid-area: d;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas52{
   grid-area: e;
   background-color:gold;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas62{
   grid-area: f;
   background-color: orange;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas72{
   grid-area: g;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 #AjusteColunas82{
   grid-area: h;
   background-color: gold;
   border-radius: 10px;
   font-size: large;
+    margin: 0px 4px;
 }
 
 #Ajuste-conteudo-Coluna12{
   grid-area: i;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
   
 
   margin-top: 10px;
@@ -70,6 +79,7 @@
   grid-area: j;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
@@ -78,6 +88,7 @@
   grid-area: k;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
@@ -86,6 +97,7 @@
   grid-area: l;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
@@ -94,6 +106,7 @@
   grid-area: m;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
@@ -102,6 +115,7 @@
   grid-area: n;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
@@ -110,6 +124,7 @@
   grid-area: o;
   overflow-wrap:break-word;
   font-size: 10px;
+    margin: 0px 4px;
 
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
@@ -118,6 +133,7 @@
   grid-area: p;
   overflow-wrap:break-word;
     font-size: 10px;
+      margin: 0px 4px;
     margin-top: 10px;
     background-color: rgb(138, 228, 228);
 }

@@ -1,26 +1,26 @@
 import React from "react";
-import './Colunas7.css'
+import './Colunas8.css'
 import { Component } from "react";
 
 class Colunas extends Component {
   render(){
-return <div className="Colunas7">
-<button id="AjusteColunas17">COLUNAS</button>
-<button id="AjusteColunas27">COLUNAS</button>
-<button id="AjusteColunas37">COLUNAS</button>
-<button id="AjusteColunas47">COLUNAS</button>
-<button id="AjusteColunas57">COLUNAS</button>
-<button id="AjusteColunas67">COLUNAS</button>
-<button id="AjusteColunas77">COLUNAS</button>
-<button id="AjusteColunas87">COLUNAS</button>
-<div id="Ajuste-conteudo-Coluna17"> KSAKSKAadsfadfaddfsdfadsfSKSAK </div>
-<div id="Ajuste-conteudo-Coluna27"> SAKKSAKAS </div>
-<div id="Ajuste-conteudo-Coluna37"> SAKKSA </div>
-<div id="Ajuste-conteudo-Coluna47">  SASADAS</div>
-<div id="Ajuste-conteudo-Coluna57">DQWDQWD </div>
-<div id="Ajuste-conteudo-Coluna67">DWEDQWD </div>
-<div id="Ajuste-conteudo-Coluna77">DWQDQW </div>
-<div id="Ajuste-conteudo-Coluna87"> DQQWDW</div>
+return <div className="Colunas8">
+<button id="AjusteColunas178">COLUNAS</button>
+<button id="AjusteColunas278">COLUNAS</button>
+<button id="AjusteColunas378">COLUNAS</button>
+<button id="AjusteColunas478">COLUNAS</button>
+<button id="AjusteColunas578">COLUNAS</button>
+<button id="AjusteColunas678">COLUNAS</button>
+<button id="AjusteColunas778">COLUNAS</button>
+<button id="AjusteColunas878">COLUNAS</button>
+<div id="Ajuste-conteudo-Coluna178"> KSAKSKAadsfadfaddfsdfadsfSKSAK </div>
+<div id="Ajuste-conteudo-Coluna278"> SAKKSAKAS </div>
+<div id="Ajuste-conteudo-Coluna378"> SAKKSA </div>
+<div id="Ajuste-conteudo-Coluna478">  SASADAS</div>
+<div id="Ajuste-conteudo-Coluna578">DQWDQWD </div>
+<div id="Ajuste-conteudo-Coluna678">DWEDQWD </div>
+<div id="Ajuste-conteudo-Coluna778">DWQDQW </div>
+<div id="Ajuste-conteudo-Coluna878"> DQQWDW</div>
 </div>
 
   }

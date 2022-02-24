@@ -1,4 +1,4 @@
-.Colunas6{
+.Colunas9{
   display: grid;
   display: none;
   grid-template-columns: 135px 135px 135px 135px 135px 135px 135px 135px ;
@@ -8,56 +8,56 @@
   "i j k l m n o p";
 }
 
-#AjusteColunas16{
+#AjusteColunas19{
   grid-area: a;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas26{
+#AjusteColunas29{
   grid-area: b;
   background-color:gold;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas36{
+#AjusteColunas39{
   grid-area: c;
   background-color: orange;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas46{
+#AjusteColunas49{
   grid-area: d;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas56{
+#AjusteColunas59{
   grid-area: e;
   background-color:gold;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas66{
+#AjusteColunas69{
   grid-area: f;
   background-color: orange;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas76{
+#AjusteColunas79{
   grid-area: g;
   background-color: aqua;
   border-radius: 10px;
   font-size: large;
     margin: 0px 4px;
 }
-#AjusteColunas86{
+#AjusteColunas89{
   grid-area: h;
   background-color: gold;
   border-radius: 10px;
@@ -65,7 +65,7 @@
     margin: 0px 4px;
 }
 
-#Ajuste-conteudo-Coluna16{
+#Ajuste-conteudo-Coluna19{
   grid-area: i;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -75,7 +75,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna26{
+#Ajuste-conteudo-Coluna29{
   grid-area: j;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -84,7 +84,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna36{
+#Ajuste-conteudo-Coluna39{
   grid-area: k;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -93,7 +93,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna46{
+#Ajuste-conteudo-Coluna49{
   grid-area: l;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -102,7 +102,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna56{
+#Ajuste-conteudo-Coluna59{
   grid-area: m;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -111,7 +111,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna66{
+#Ajuste-conteudo-Coluna69{
   grid-area: n;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -120,7 +120,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna76{
+#Ajuste-conteudo-Coluna79{
   grid-area: o;
   overflow-wrap:break-word;
   font-size: 10px;
@@ -129,7 +129,7 @@
   margin-top: 10px;
   background-color: rgb(138, 228, 228);
 }
-#Ajuste-conteudo-Coluna86{
+#Ajuste-conteudo-Coluna89{
   grid-area: p;
   overflow-wrap:break-word;
     font-size: 10px;
