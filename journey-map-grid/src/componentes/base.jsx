@@ -36,6 +36,10 @@ teste6(){
   $(".Colunas6").slideToggle()
   $('.Colunas6').css("display", "grid")
 }
+teste7(){   
+  $(".Colunas7").slideToggle()
+  $('.Colunas7').css("display", "grid")
+}
 
   render() { 
     
@@ -57,7 +61,7 @@ teste6(){
       <div className="Conteudoescondido"></div>
       <button id="ButtonsShow" onClick={this.teste6}><FontAwesomeIcon icon={faBorderStyle} /><span>Expectations</span> </button> 
       <div className="Conteudoescondido"></div>
-      <button id="ButtonsShow"><FontAwesomeIcon icon={faBorderStyle} /><span> Emotions</span></button> 
+      <button id="ButtonsShow" onClick={this.teste7}><FontAwesomeIcon icon={faBorderStyle} /><span> Emotions</span></button> 
       <div className="Conteudoescondido"></div>
       <button id="ButtonsShow"><FontAwesomeIcon icon={faBorderStyle} /><span>Pains </span> </button> 
       <div className="Conteudoescondido"></div>

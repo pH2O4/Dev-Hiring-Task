@@ -10,6 +10,7 @@ import Colunas3 from "../componentes/colunas3"
 import Colunas4 from "../componentes/colunas4"
 import Colunas5 from "../componentes/colunas5"
 import Colunas6 from "../componentes/colunas6"
+import Colunas7 from "../componentes/colunas7"
 
 
 class Content extends Component{
@@ -29,7 +30,7 @@ class Content extends Component{
 <button className="BotãoConteudo"><FontAwesomeIcon icon={faBorderStyle} />hidden section</button> 
 <div className="ConteudoEscondidoY"><Colunas6/></div> 
 <button className="BotãoConteudo"><FontAwesomeIcon icon={faBorderStyle} />hidden section</button> 
-<div className="ConteudoEscondidoY"></div>
+<div className="ConteudoEscondidoY"><Colunas7/></div>
 <button className="BotãoConteudo"><FontAwesomeIcon icon={faBorderStyle} />hidden section</button> 
 <div className="ConteudoEscondidoY"></div>
 <button className="BotãoConteudo"><FontAwesomeIcon icon={faBorderStyle} />hidden section</button> 
