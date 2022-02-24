@@ -76,7 +76,7 @@ teste12(){
 teste13(){   
   $(".Colunas13").slideToggle()
   $('.Colunas13').css("display", "grid")
-     $('#primeira-linha-hidden12').slideToggle()
+     $('#primeira-linha-hidden13').slideToggle()
 }
 
 

@@ -5,22 +5,22 @@ import { Component } from "react";
 class Colunas extends Component {
   render(){
 return <div className="Colunas12">
-<button id="AjusteColunas112">COLUNAS</button>
-<button id="AjusteColunas212">COLUNAS</button>
-<button id="AjusteColunas312">COLUNAS</button>
-<button id="AjusteColunas412">COLUNAS</button>
-<button id="AjusteColunas512">COLUNAS</button>
-<button id="AjusteColunas612">COLUNAS</button>
-<button id="AjusteColunas712">COLUNAS</button>
-<button id="AjusteColunas812">COLUNAS</button>
-<div id="Ajuste-conteudo-Coluna112"> KSAKSKAadsfadfaddfsdfadsfSKSAK </div>
-<div id="Ajuste-conteudo-Coluna212"> SAKKSAKAS </div>
-<div id="Ajuste-conteudo-Coluna312"> SAKKSA </div>
-<div id="Ajuste-conteudo-Coluna412">  SASADAS</div>
-<div id="Ajuste-conteudo-Coluna512">DQWDQWD </div>
-<div id="Ajuste-conteudo-Coluna612">DWEDQWD </div>
-<div id="Ajuste-conteudo-Coluna712">DWQDQW </div>
-<div id="Ajuste-conteudo-Coluna812"> DQQWDW</div>
+<button id="AjusteColunas112">Necessity</button>
+<button id="AjusteColunas212">Discovery</button>
+<button id="AjusteColunas312">Evaluation</button>
+<button id="AjusteColunas412">Purchase</button>
+<button id="AjusteColunas512">Onboarding</button>
+<button id="AjusteColunas612">First Value</button>
+<button id="AjusteColunas712">Recurring Val.</button>
+<button id="AjusteColunas812">Expasion</button>
+<div id="Ajuste-conteudo-Coluna112"> </div>
+<div id="Ajuste-conteudo-Coluna212"> </div>
+<div id="Ajuste-conteudo-Coluna312">  </div>
+<div id="Ajuste-conteudo-Coluna412">  </div>
+<div id="Ajuste-conteudo-Coluna512"> </div>
+<div id="Ajuste-conteudo-Coluna612"> </div>
+<div id="Ajuste-conteudo-Coluna712"> </div>
+<div id="Ajuste-conteudo-Coluna812"> </div>
 </div>
 
   }
