@@ -1,0 +1,123 @@
+.Colunas2{
+  display: grid;
+  display: none;
+  grid-template-columns: 135px 135px 135px 135px 135px 135px 135px 135px ;
+  grid-template-rows: 30px 1fr;
+  grid-template-areas: 
+  "a b c d e f g h"
+  "i j k l m n o p";
+}
+
+#AjusteColunas12{
+  grid-area: a;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas22{
+  grid-area: b;
+  background-color:gold;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas32{
+  grid-area: c;
+  background-color: orange;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas42{
+  grid-area: d;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas52{
+  grid-area: e;
+  background-color:gold;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas62{
+  grid-area: f;
+  background-color: orange;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas72{
+  grid-area: g;
+  background-color: aqua;
+  border-radius: 10px;
+  font-size: large;
+}
+#AjusteColunas82{
+  grid-area: h;
+  background-color: gold;
+  border-radius: 10px;
+  font-size: large;
+}
+
+#Ajuste-conteudo-Coluna12{
+  grid-area: i;
+  overflow-wrap:break-word;
+  font-size: 10px;
+  
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna22{
+  grid-area: j;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna32{
+  grid-area: k;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna42{
+  grid-area: l;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna52{
+  grid-area: m;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna62{
+  grid-area: n;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna72{
+  grid-area: o;
+  overflow-wrap:break-word;
+  font-size: 10px;
+
+  margin-top: 10px;
+  background-color: rgb(138, 228, 228);
+}
+#Ajuste-conteudo-Coluna82{
+  grid-area: p;
+  overflow-wrap:break-word;
+    font-size: 10px;
+    margin-top: 10px;
+    background-color: rgb(138, 228, 228);
+}
