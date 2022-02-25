@@ -7,6 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faBorderStyle, faPlus, faMinus} from "@fortawesome/free-solid-svg-icons";
 
 import $ from 'jquery';
+import Divsadd from "../componentes/colunas"
 
 class Base extends Component {
 
@@ -79,7 +80,10 @@ teste13(){
      $('#primeira-linha-hidden13').slideToggle()
 }
 
-
+ADDROW(){
+  console.log("ASKJSAKSAK")
+  $('collunsleft').appendTo('<div> TUTS </div>')
+}
 
   render() { 
     
@@ -115,7 +119,7 @@ teste13(){
       <div className="Conteudoescondido"></div>
       <button id="ButtonsShow" onClick={this.teste13}><FontAwesomeIcon icon={faBorderStyle} /><span> KPIs</span></button> 
       <div className="Conteudoescondido"></div>
-      <button> <FontAwesomeIcon icon={ faPlus} /> </button>
+      <button id="Addrow" onClick={this.ADDROW}> <FontAwesomeIcon icon={ faPlus} /> </button>
       </div>
     </div>
 

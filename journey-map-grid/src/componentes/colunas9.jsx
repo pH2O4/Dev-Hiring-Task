@@ -13,14 +13,14 @@ return <div className="Colunas9">
 <button id="AjusteColunas69">First Value</button>
 <button id="AjusteColunas79">Recurring Val.</button>
 <button id="AjusteColunas89">Expasion</button>
-<div id="Ajuste-conteudo-Coluna19"></div>
-<div id="Ajuste-conteudo-Coluna29"></div>
-<div id="Ajuste-conteudo-Coluna39"> </div>
-<div id="Ajuste-conteudo-Coluna49">  </div>
-<div id="Ajuste-conteudo-Coluna59"></div>
-<div id="Ajuste-conteudo-Coluna69"> </div>
-<div id="Ajuste-conteudo-Coluna79"></div>
-<div id="Ajuste-conteudo-Coluna89"></div>
+<div id="Ajuste-conteudo-Coluna19">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna29">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna39">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna49">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna59">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna69">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna79">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna89">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
 </div>
 
   }
