@@ -10,7 +10,7 @@ return <div className="Colunas5">
 <button id="AjusteColunas35">Evaluation</button>
 <button id="AjusteColunas45">Purchase</button>
 <button id="AjusteColunas55">Onboarding</button>
-<button id="AjusteColunas65">Firt Value</button>
+<button id="AjusteColunas65">Firt Val.</button>
 <button id="AjusteColunas75">Recurring Value</button>
 <button id="AjusteColunas85">Expasion</button>
 <div id="Ajuste-conteudo-Coluna15">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
@@ -19,8 +19,8 @@ return <div className="Colunas5">
 <div id="Ajuste-conteudo-Coluna45">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
 <div id="Ajuste-conteudo-Coluna55">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
 <div id="Ajuste-conteudo-Coluna65">  <textarea name="" id="" cols="15" rows="10"></textarea> </div>
-<div id="Ajuste-conteudo-Coluna75"></div>
-<div id="Ajuste-conteudo-Coluna85"> </div>
+<div id="Ajuste-conteudo-Coluna75"> <textarea name="" id="" cols="15" rows="10"></textarea> </div>
+<div id="Ajuste-conteudo-Coluna85"> <textarea name="" id="" cols="15" rows="10"></textarea> </div>
 </div>
 
   }

@@ -1,11 +1,22 @@
 .collunsleft{
   display: grid;
+  margin-bottom: 30px;
 
 
 }
 
+.Configurandoas3divs{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 500px 1fr;
+}
 .Conteudoescondido{
   display: none;
+}
+
+#fontsizeinput{
+  font-size: 12px;
+  margin-left: 15px;
 }
 
 button{

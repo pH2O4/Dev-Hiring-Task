@@ -2,9 +2,9 @@
 
 
 .BotãoConteudo{
-    padding: 3px;  
+    padding: 0px;  
     border-radius: 2px 2px 15px;
-    margin: 11px;
+    margin: 10px;
     
 
 }
@@ -12,7 +12,7 @@
   display: grid;
   grid-template-columns: 1fr;
   justify-content: center;
-  margin-top: 27px;
+  margin-top: 40px;
   
 }
 .ConteudoEscondidoY{
