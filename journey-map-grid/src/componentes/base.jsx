@@ -8,6 +8,7 @@ import { faBorderStyle, faPlus, faMinus} from "@fortawesome/free-solid-svg-icons
 
 import $ from 'jquery';
 import Divsadd from "../componentes/colunas"
+import { createElement } from "react";
 
 class Base extends Component {
 
@@ -81,8 +82,8 @@ teste13(){
 }
 
 ADDROW(){
-  console.log("ASKJSAKSAK")
-  $('collunsleft').appendTo('<div> TUTS </div>')
+  let criandviajs = createElement("div")
+
 }
 
   render() { 
