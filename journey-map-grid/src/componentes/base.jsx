@@ -4,11 +4,9 @@ import './Colunas.css'
 import './content.css'
 import { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faBorderStyle, faPlus, faMinus} from "@fortawesome/free-solid-svg-icons";
+import { faBorderStyle, faPlus, faMinus, faHourglass1} from "@fortawesome/free-solid-svg-icons";
 
 import $ from 'jquery';
-import Divsadd from "../componentes/colunas"
-import { createElement } from "react";
 
 class Base extends Component {
 
@@ -108,7 +106,9 @@ teste13(){
 }
 
 ADDROW(){
-  $('.collunsleft').append('<button id="ButtonsShow1" onClick={this.teste} ><FontAwesomeIcon icon={faBorderStyle} /> <span>Storyling</span> <FontAwesomeIcon icon={faMinus} /></button>')
+  let NovaLinha = $('#TEXTX')
+  $('#TESTX').css("visibility", "visible")
+  $('collunsleft').append(NovaLinha)
 
 }
 
@@ -147,9 +147,10 @@ ADDROW(){
       <div className="Conteudoescondido"></div>
       <button id="ButtonsShow13" onClick={this.teste13}><FontAwesomeIcon icon={faBorderStyle} /><span> KPIs</span></button> 
       <div className="Conteudoescondido"></div>
+      <button id="TESTX">ASKASKSAKAS</button>
       
       </div >
-<div id>      <form id="fontsizeinput" action=""> <input  type="text" /> Adicione mais linhas <button id="Addrow" onClick={this.ADDROW}> <FontAwesomeIcon icon={ faPlus} /> </button></form>
+<div>      <form id="fontsizeinput" action="/"> <input  type="text" /> Adicione mais linhas <button id="Addrow" onClick={this.ADDROW}> <FontAwesomeIcon icon={ faPlus} /> </button></form>
      
       </div>
       </div>

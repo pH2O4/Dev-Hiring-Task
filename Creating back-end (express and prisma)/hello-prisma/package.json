@@ -1,0 +1,19 @@
+{
+  "name": "hello-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^3.10.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.10.0",
+    "@prisma/studio": "^0.458.0"
+  }
+}
