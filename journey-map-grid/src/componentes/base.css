@@ -5,21 +5,16 @@
 
 }
 
-#TESTX{ visibility:visible;
-  visibility:hidden;
- 
-}
 
 .Configurandoas3divs{
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 50px 500px 1fr;
-}
-.Conteudoescondido{
-  display: none;
+  grid-template-rows: 50px 565px 1fr;
 }
 
+
 #fontsizeinput{
+  margin-top: 15px;
   font-size: 12px;
   margin-left: 15px;
 }
